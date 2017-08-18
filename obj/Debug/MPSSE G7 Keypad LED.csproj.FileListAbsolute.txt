@@ -1,0 +1,10 @@
+C:\Users\ThomasL\Desktop\G7_KEYPAD_LED_TEST\bin\Debug\SensorDemo.exe
+C:\Users\ThomasL\Desktop\G7_KEYPAD_LED_TEST\bin\Debug\SensorDemo.pdb
+C:\Users\ThomasL\Desktop\G7_KEYPAD_LED_TEST\bin\Debug\FTD2XX_NET.dll
+C:\Users\ThomasL\Desktop\G7_KEYPAD_LED_TEST\bin\Debug\FTD2XX_NET.xml
+C:\Users\ThomasL\Desktop\G7_KEYPAD_LED_TEST\obj\Debug\MPSSE G7 Keypad LED.csprojResolveAssemblyReference.cache
+C:\Users\ThomasL\Desktop\G7_KEYPAD_LED_TEST\obj\Debug\SensorDemo.Properties.Resources.resources
+C:\Users\ThomasL\Desktop\G7_KEYPAD_LED_TEST\obj\Debug\MPSSE G7 Keypad LED.csproj.GenerateResource.Cache
+C:\Users\ThomasL\Desktop\G7_KEYPAD_LED_TEST\obj\Debug\SensorDemo.exe
+C:\Users\ThomasL\Desktop\G7_KEYPAD_LED_TEST\obj\Debug\SensorDemo.pdb
+C:\Users\ThomasL\Desktop\G7_KEYPAD_LED_TEST\obj\Debug\KeypadLED.FormMain.resources
